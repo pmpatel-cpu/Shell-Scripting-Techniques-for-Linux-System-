@@ -1,0 +1,34 @@
+{
+  "Task1_CountBySeverity": {
+    "Bash": 6,
+    "Awk": 1,
+    "Grep": 4,
+    "Perl": 9,
+    "Python": 10
+  },
+  "Task2_FilterCritical": {
+    "Bash": 8,
+    "Awk": 2,
+    "Grep": 2,
+    "Perl": 10,
+    "Python": 10
+  },
+  "Task3_AvgResponseByType": {
+    "Awk": 1,
+    "Perl": 12,
+    "Python": 11,
+    "Bash": 10
+  },
+  "Task4_FilterFailedTx": {
+    "Awk": 1,
+    "Perl": 9,
+    "Python": 9,
+    "Bash": 7
+  },
+  "Task5_Top10ByCPU": {
+    "Awk+sort": 1,
+    "sort(1)": 1,
+    "Perl": 10,
+    "Python": 8
+  }
+}

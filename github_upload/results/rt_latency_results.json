@@ -1,0 +1,56 @@
+{
+  "Bash (naive fork loop)": {
+    "count_detected": 262,
+    "mean_latency_ms": 2.255918415448138,
+    "median_latency_ms": 1.5609264373779297,
+    "p95_latency_ms": 1.9136428833007812,
+    "max_latency_ms": 68.08853149414062,
+    "min_latency_ms": 1.3816356658935547,
+    "stdev_latency_ms": 5.819418882307373
+  },
+  "Bash (pure builtin)": {
+    "count_detected": 262,
+    "mean_latency_ms": 0.39407770142300436,
+    "median_latency_ms": 0.3974437713623047,
+    "p95_latency_ms": 0.48885345458984375,
+    "max_latency_ms": 0.5908012390136719,
+    "min_latency_ms": 0.2620220184326172,
+    "stdev_latency_ms": 0.05981943980336139
+  },
+  "Grep": {
+    "count_detected": 262,
+    "mean_latency_ms": 0.06391710907448339,
+    "median_latency_ms": 0.06556510925292969,
+    "p95_latency_ms": 0.09815692901611328,
+    "max_latency_ms": 0.1308917999267578,
+    "min_latency_ms": 0.024080276489257812,
+    "stdev_latency_ms": 0.01931254760898751
+  },
+  "Awk": {
+    "count_detected": 262,
+    "mean_latency_ms": 0.07721758980787437,
+    "median_latency_ms": 0.0795125961303711,
+    "p95_latency_ms": 0.11372566223144531,
+    "max_latency_ms": 0.16546249389648438,
+    "min_latency_ms": 0.03170967102050781,
+    "stdev_latency_ms": 0.02127140077888311
+  },
+  "Perl": {
+    "count_detected": 262,
+    "mean_latency_ms": 0.06270772628201783,
+    "median_latency_ms": 0.06401538848876953,
+    "p95_latency_ms": 0.09076595306396484,
+    "max_latency_ms": 0.12826919555664062,
+    "min_latency_ms": 0.027179718017578125,
+    "stdev_latency_ms": 0.019421756825961832
+  },
+  "Python (polling)": {
+    "count_detected": 262,
+    "mean_latency_ms": 1.1670589447021484,
+    "median_latency_ms": 1.2025833129882812,
+    "p95_latency_ms": 2.094542980194092,
+    "max_latency_ms": 2.164602279663086,
+    "min_latency_ms": 0.03528594970703125,
+    "stdev_latency_ms": 0.6247473270478285
+  }
+}
